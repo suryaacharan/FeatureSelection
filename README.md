@@ -1,5 +1,5 @@
 # FeatureSelection
-Feature Selection with Nearest Neighbor. CS205 Project II
+Feature Selection with Nearest Neighbor
 
 # Feature Selection Program
 
